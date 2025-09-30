@@ -23,7 +23,9 @@ python -m venv .venv
 
 venv\Scripts\activate  
 upper wla error de toh niche wla
+
 .\.venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
+
 uvicorn main:app --reload
