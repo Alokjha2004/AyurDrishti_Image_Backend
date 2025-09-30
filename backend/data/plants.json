@@ -1,0 +1,74 @@
+{
+  "ocimum tenuiflorum": {
+    "common_name": "Tulasi",
+    "uses": [],
+    "contra": [],
+    "family": "Lamiaceae",
+    "genus": "Ocimum",
+    "source": "local-db",
+    "updated_at": 1755874426
+  },
+  "ficus religiosa": {
+    "common_name": "Peepal tree",
+    "uses": [],
+    "contra": [],
+    "family": "Moraceae",
+    "genus": "Ficus",
+    "source": "local-db",
+    "updated_at": 1755874532
+  },
+  "azadirachta indica": {
+    "common_name": "Neem",
+    "uses": [],
+    "contra": [],
+    "family": "Meliaceae",
+    "genus": "Azadirachta",
+    "source": "local-db",
+    "updated_at": 1755874608
+  },
+  "acer saccharinum": {
+    "common_name": "Silver maple",
+    "uses": [],
+    "contra": [],
+    "family": "Sapindaceae",
+    "genus": "Acer",
+    "source": "local-db",
+    "updated_at": 1755876256
+  },
+  "acer negundo": {
+    "common_name": "Boxelder",
+    "uses": [],
+    "contra": [],
+    "family": "Sapindaceae",
+    "genus": "Acer",
+    "source": "local-db",
+    "updated_at": 1755876476
+  },
+  "acer elegantulum": {
+    "common_name": "",
+    "uses": [],
+    "contra": [],
+    "family": "Sapindaceae",
+    "genus": "Acer",
+    "source": "local-db",
+    "updated_at": 1755877134
+  },
+  "quercus alba": {
+    "common_name": "White oak",
+    "uses": [],
+    "contra": [],
+    "family": "Fagaceae",
+    "genus": "Quercus",
+    "source": "local-db",
+    "updated_at": 1755877837
+  },
+  "aloe succotrina": {
+    "common_name": "Fynbos aloe",
+    "uses": [],
+    "contra": [],
+    "family": "Xanthorrhoeaceae",
+    "genus": "Aloe",
+    "source": "local-db",
+    "updated_at": 1759246616
+  }
+}
